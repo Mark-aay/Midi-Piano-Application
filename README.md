@@ -7,5 +7,5 @@ The first iteration of the program features a simple keyboard one octave in leng
 Upon clicking one of the keys in the application, a note is played.
 
 I plan on adding a "reverb" button to sustain notes, and a tempo button that plays 
-a metronome for the user.
+a metronome for the user. I'll be making those changes over the course of a few days.
 
